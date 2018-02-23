@@ -1,0 +1,12 @@
+.\objects\ds.o: ds.c
+.\objects\ds.o: ds.h
+.\objects\ds.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\ds.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdlib.h
+.\objects\ds.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\ds.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\ds.o: lcd.h
+.\objects\ds.o: stm32f10x.h
+.\objects\ds.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\core_cm3.h
+.\objects\ds.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_compiler.h
+.\objects\ds.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.1\CMSIS\Include\cmsis_armcc.h
+.\objects\ds.o: system_stm32f10x.h
